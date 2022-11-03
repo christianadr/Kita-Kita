@@ -1,0 +1,5 @@
+/.venv
+/yolov5
+/.ipynb_checkpoints
+/modules-checker.py
+/YOLOv5.ipynb
